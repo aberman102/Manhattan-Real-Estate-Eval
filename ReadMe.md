@@ -40,7 +40,7 @@ The questions I am looking to answer are:
 
 5) Yes, we saw an immediate decrease in sales. There was a bump at the end of the year as buyers and sellers want to close sales in time to apply it to their taxes for that year but the jump wasn't particularly large and tailed off in December of 2019.
 
-
+ 
 
 ![Line%20Chart.png](attachment:Line%20Chart.png)
 

@@ -1,4 +1,4 @@
-## Manhattan Real Estate Analysis Project
+## Manhattan Real Estate Analysis Project 
 
     Flatiron Module 2 Project Avidan Berman
 
